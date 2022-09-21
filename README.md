@@ -5,7 +5,7 @@ I will try to upload a basic description of each one as I go.
 ------------------------------------
 
 
-ComputerScienceProject (JavaScript)
+ComputerScienceProject (JavaScript/HTML/CSS)
 ------------------------------------
 This is just a project I did for AP computer science years ago. 
 It has a couple versions of tetris, snake, minesweeper, a clicker, 2048, dino game, sudoku, etc. Of course only like two of those projects actually will run.
