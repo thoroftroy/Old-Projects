@@ -20,3 +20,4 @@ ALL THE VIRUS/BAT STUFF (Batch)
 I don't remmeber what all of these files do, they should all be viruses of some kind. I know that there is a lot to take up memory and alot to file folder bomb
 they will cuase problems and are not fun if you run them so I would not recomend it
 You can give them to other people and run it on their computer for some harmless fun though
+(Most of the these have been added to the BATCH Viruses repository)
