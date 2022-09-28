@@ -1,7 +1,6 @@
 # Old-Projects
 ------------------------------------
-This is just for my old projects that I don't plan on working on anymore
-I will try to upload a basic description of each one as I go. 
+This is just for my old projects that I don't plan on working on anymore, they are mostly in ZIPPED folders so they aren't super confienent to access
 ------------------------------------
 
 
