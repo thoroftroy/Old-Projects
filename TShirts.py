@@ -6,12 +6,17 @@
 #Red        40              10          12      16          6
 
 #Goal to sell 50 shirts, what is the max profit
+#reformat the table into lists
 shirtCost = [5,7,7,10]
 shirtPrice = [12,15,15,16]
 shirtDye = [50,10,15,12]
 shirtTimes = [0,20,20,40]
 i = 0
 def finder(i):
+    #the function I am going for is this
+    #f(x)=shirtPrice*x-shirtCost*x      where x = num of shirts
+    #I think I need another equation of some kind, like a bunch of thems
+    #w(x)+b(x)+y(x)+r(x) or something when x<=50
     shirtNum = shirtDye[i]
     x=int(shirtNum)
     y=(shirtPrice[i]*x)-(shirtCost[i]*x)
